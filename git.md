@@ -22,3 +22,6 @@ check dự án
 -A: add all files trong project
 . : add cụ thể 1 thư mục đang đứng
 add : thêm 1 thư mục cụ thể
+
+
+### demo git conflict
