@@ -68,3 +68,10 @@ tạo ra 1 nhánh mới
 
 - Git branch -a
 Liệt kê nhánh
+
+
+# git pull 
+pull code ở repo remote về local
+git pull --no-ff
+
+# git clone <url repo>
